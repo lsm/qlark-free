@@ -1,0 +1,18 @@
+Qlark distribution attribution notice (prepared by the distributor).
+
+Qwen3-ASR-0.6B by the Qwen Team / Alibaba Cloud.
+Original model: https://huggingface.co/Qwen/Qwen3-ASR-0.6B
+Original project: https://github.com/QwenLM/Qwen3-ASR
+License: Apache License, Version 2.0; see Qwen3-ASR-LICENSE.txt.
+
+MLX 4-bit conversion by aufklarer:
+https://huggingface.co/aufklarer/Qwen3-ASR-0.6B-MLX-4bit
+Conversion model-card revision: bc441bd1e4295c1f42d9879f056049a925b6e013
+License declared by converter: Apache-2.0.
+Six original converted model files are bundled unchanged.
+MODEL-FILES.json gives exact sizes and SHA-256 hashes.
+No ForcedAligner, Silero VAD, or other model weights are bundled.
+
+The upstream project and model repositories did not publish a separate NOTICE
+file when checked on 2026-10-21. This file is distribution attribution, not an
+upstream-authored notice, and does not change the license.
