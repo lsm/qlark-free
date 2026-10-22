@@ -132,5 +132,24 @@
     "license_files": [
       "Licenses/swift-runtime/LICENSE.txt"
     ]
+  },
+  {
+    "component": "Qwen3-ASR 0.6B MLX 4-bit model",
+    "license": "Apache-2.0",
+    "source": "https://huggingface.co/aufklarer/Qwen3-ASR-0.6B-MLX-4bit",
+    "license_files": [
+      "Licenses/Qwen3-ASR-LICENSE.txt",
+      "Licenses/Qwen3-ASR-NOTICE.txt"
+    ]
+  },
+  {
+    "component": "Silero VAD v6.2.1 MLX model",
+    "license": "MIT",
+    "source": "https://huggingface.co/aufklarer/Silero-VAD-v6.2.1-MLX",
+    "revision": "0046cea48b26401909b24292b688fbc9b6322bc5",
+    "license_files": [
+      "Licenses/Silero-VAD-LICENSE.txt",
+      "Licenses/Silero-VAD-NOTICE.txt"
+    ]
   }
 ]

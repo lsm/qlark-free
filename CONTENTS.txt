@@ -1,59 +1,210 @@
-CONTENTS.txt
-Licenses/Qwen3-ASR-LICENSE.txt
-Licenses/Qwen3-ASR-NOTICE.txt
-Licenses/eventsource/LICENSE.md
-Licenses/mlx-c/LICENSE
-Licenses/mlx-core/LICENSE
-Licenses/mlx-swift/LICENSE
-Licenses/mlx-swift/Source/Cmlx/fmt/LICENSE
-Licenses/mlx-swift/Source/Cmlx/json/LICENSE.MIT
-Licenses/mlx-swift/Source/Cmlx/metal-cpp/LICENSE.txt
-Licenses/speech-swift/LICENSE
-Licenses/swift-argument-parser/LICENSE.txt
-Licenses/swift-asn1/LICENSE.txt
-Licenses/swift-asn1/NOTICE.txt
-Licenses/swift-collections/LICENSE.txt
-Licenses/swift-crypto/LICENSE.txt
-Licenses/swift-crypto/NOTICE.txt
-Licenses/swift-huggingface/LICENSE
-Licenses/swift-jinja/LICENSE
-Licenses/swift-numerics/LICENSE.txt
-Licenses/swift-runtime/LICENSE.txt
-Licenses/swift-transformers/LICENSE
-Licenses/yyjson/LICENSE
-MODEL-FILES.json
-Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/config.json
-Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/merges.txt
-Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/model.safetensors
-Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/model.safetensors.index.json
-Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/tokenizer_config.json
-Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/vocab.json
-Qlark.app/Contents/CodeResources
-Qlark.app/Contents/Frameworks/libswiftCompatibilitySpan.dylib
-Qlark.app/Contents/Info.plist
-Qlark.app/Contents/MacOS/Qlark
-Qlark.app/Contents/PkgInfo
-Qlark.app/Contents/Resources/AppIcon.icns
-Qlark.app/Contents/Resources/Assets.car
-Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/Info.plist
-Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/Resources/default.metallib
-Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeDirectory
-Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeRequirements
-Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeResources
-Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeSignature
-Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/Info.plist
-Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/Resources/PrivacyInfo.xcprivacy
-Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeDirectory
-Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeRequirements
-Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeResources
-Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeSignature
-Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Info.plist
-Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Resources/gpt2_tokenizer_config.json
-Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Resources/t5_tokenizer_config.json
-Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeDirectory
-Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeRequirements
-Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeResources
-Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeSignature
-Qlark.app/Contents/_CodeSignature/CodeResources
-README.txt
-THIRD-PARTY.json
+Archive: qlark-free-e26a72d-2026-10-22.zip
+Every ZIP entry, including signature/xattr metadata.
+
+0	Qlark.app/
+0	Qlark.app/Contents/
+1779	Qlark.app/Contents/CodeResources
+163	Qlark.app/Contents/._CodeResources
+0	Qlark.app/Contents/_CodeSignature/
+19551	Qlark.app/Contents/_CodeSignature/CodeResources
+163	Qlark.app/Contents/_CodeSignature/._CodeResources
+163	Qlark.app/Contents/.__CodeSignature
+0	Qlark.app/Contents/MacOS/
+16991792	Qlark.app/Contents/MacOS/Qlark
+163	Qlark.app/Contents/MacOS/._Qlark
+163	Qlark.app/Contents/._MacOS
+0	Qlark.app/Contents/Resources/
+0	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/
+0	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/
+0	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/
+2728	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeResources
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/._CodeResources
+224	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeDirectory
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/._CodeDirectory
+9043	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeSignature
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/._CodeSignature
+224	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/CodeRequirements
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/_CodeSignature/._CodeRequirements
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/.__CodeSignature
+0	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Resources/
+234	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Resources/gpt2_tokenizer_config.json
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Resources/._gpt2_tokenizer_config.json
+20746	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Resources/t5_tokenizer_config.json
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Resources/._t5_tokenizer_config.json
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/._Resources
+1139	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/Info.plist
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/Contents/._Info.plist
+163	Qlark.app/Contents/Resources/swift-transformers_Hub.bundle/._Contents
+163	Qlark.app/Contents/Resources/._swift-transformers_Hub.bundle
+0	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/
+0	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/
+0	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/
+2464	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeResources
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeResources
+221	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeDirectory
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeDirectory
+9042	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeSignature
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeSignature
+224	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeRequirements
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeRequirements
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/.__CodeSignature
+0	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/Resources/
+398	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/Resources/PrivacyInfo.xcprivacy
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/Resources/._PrivacyInfo.xcprivacy
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/._Resources
+1133	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/Info.plist
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/._Info.plist
+163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/._Contents
+163	Qlark.app/Contents/Resources/._swift-crypto_Crypto.bundle
+113354	Qlark.app/Contents/Resources/AppIcon.icns
+163	Qlark.app/Contents/Resources/._AppIcon.icns
+0	Qlark.app/Contents/Resources/Models/
+0	Qlark.app/Contents/Resources/Models/aufklarer/
+0	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/
+708236945	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/model.safetensors
+163	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/._model.safetensors
+12487	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/tokenizer_config.json
+163	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/._tokenizer_config.json
+7187	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/config.json
+163	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/._config.json
+1671853	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/merges.txt
+163	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/._merges.txt
+2776833	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/vocab.json
+163	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/._vocab.json
+71814	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/model.safetensors.index.json
+163	Qlark.app/Contents/Resources/Models/aufklarer/Qwen3-ASR-0.6B-MLX-4bit/._model.safetensors.index.json
+163	Qlark.app/Contents/Resources/Models/aufklarer/._Qwen3-ASR-0.6B-MLX-4bit
+0	Qlark.app/Contents/Resources/Models/aufklarer/Silero-VAD-v6.2.1-MLX/
+1237580	Qlark.app/Contents/Resources/Models/aufklarer/Silero-VAD-v6.2.1-MLX/model.safetensors
+163	Qlark.app/Contents/Resources/Models/aufklarer/Silero-VAD-v6.2.1-MLX/._model.safetensors
+456	Qlark.app/Contents/Resources/Models/aufklarer/Silero-VAD-v6.2.1-MLX/config.json
+163	Qlark.app/Contents/Resources/Models/aufklarer/Silero-VAD-v6.2.1-MLX/._config.json
+163	Qlark.app/Contents/Resources/Models/aufklarer/._Silero-VAD-v6.2.1-MLX
+163	Qlark.app/Contents/Resources/Models/._aufklarer
+163	Qlark.app/Contents/Resources/._Models
+2046248	Qlark.app/Contents/Resources/Assets.car
+163	Qlark.app/Contents/Resources/._Assets.car
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/
+805	Qlark.app/Contents/Resources/ThirdPartyLicenses/Qwen3-ForcedAligner-NOTICE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._Qwen3-ForcedAligner-NOTICE.txt
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-argument-parser/
+11751	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-argument-parser/LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-argument-parser/._LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-argument-parser
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-transformers/
+11347	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-transformers/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-transformers/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-transformers
+514	Qlark.app/Contents/Resources/ThirdPartyLicenses/Silero-VAD-NOTICE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._Silero-VAD-NOTICE.txt
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/eventsource/
+1062	Qlark.app/Contents/Resources/ThirdPartyLicenses/eventsource/LICENSE.md
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/eventsource/._LICENSE.md
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._eventsource
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/yyjson/
+1084	Qlark.app/Contents/Resources/ThirdPartyLicenses/yyjson/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/yyjson/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._yyjson
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-runtime/
+11751	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-runtime/LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-runtime/._LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-runtime
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-core/
+1066	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-core/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-core/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._mlx-core
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/
+1067	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/._LICENSE
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/metal-cpp/
+11344	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/metal-cpp/LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/metal-cpp/._LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/._metal-cpp
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/fmt/
+1431	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/fmt/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/fmt/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/._fmt
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/json/
+1076	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/json/LICENSE.MIT
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/json/._LICENSE.MIT
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/Cmlx/._json
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/Source/._Cmlx
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-swift/._Source
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._mlx-swift
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-jinja/
+11347	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-jinja/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-jinja/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-jinja
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-c/
+1067	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-c/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/mlx-c/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._mlx-c
+11343	Qlark.app/Contents/Resources/ThirdPartyLicenses/Qwen3-ASR-LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._Qwen3-ASR-LICENSE.txt
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-crypto/
+1563	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-crypto/NOTICE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-crypto/._NOTICE.txt
+11358	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-crypto/LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-crypto/._LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-crypto
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-asn1/
+1450	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-asn1/NOTICE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-asn1/._NOTICE.txt
+11359	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-asn1/LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-asn1/._LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-asn1
+902	Qlark.app/Contents/Resources/ThirdPartyLicenses/Qwen3-ASR-NOTICE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._Qwen3-ASR-NOTICE.txt
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/speech-swift/
+10763	Qlark.app/Contents/Resources/ThirdPartyLicenses/speech-swift/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/speech-swift/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._speech-swift
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-collections/
+11751	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-collections/LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-collections/._LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-collections
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-numerics/
+11751	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-numerics/LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-numerics/._LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-numerics
+1075	Qlark.app/Contents/Resources/ThirdPartyLicenses/Silero-VAD-LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._Silero-VAD-LICENSE.txt
+0	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-huggingface/
+11347	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-huggingface/LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/swift-huggingface/._LICENSE
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._swift-huggingface
+11343	Qlark.app/Contents/Resources/ThirdPartyLicenses/Qwen3-ForcedAligner-LICENSE.txt
+163	Qlark.app/Contents/Resources/ThirdPartyLicenses/._Qwen3-ForcedAligner-LICENSE.txt
+163	Qlark.app/Contents/Resources/._ThirdPartyLicenses
+0	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/
+0	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/
+0	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/
+2454	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeResources
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/._CodeResources
+216	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeDirectory
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/._CodeDirectory
+9042	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeSignature
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/._CodeSignature
+216	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/CodeRequirements
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/_CodeSignature/._CodeRequirements
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/.__CodeSignature
+0	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/Resources/
+3836652	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/Resources/default.metallib
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/Resources/._default.metallib
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/._Resources
+1123	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/Info.plist
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/Contents/._Info.plist
+163	Qlark.app/Contents/Resources/mlx-swift_Cmlx.bundle/._Contents
+163	Qlark.app/Contents/Resources/._mlx-swift_Cmlx.bundle
+163	Qlark.app/Contents/._Resources
+0	Qlark.app/Contents/Frameworks/
+188208	Qlark.app/Contents/Frameworks/libswiftCompatibilitySpan.dylib
+163	Qlark.app/Contents/Frameworks/._libswiftCompatibilitySpan.dylib
+163	Qlark.app/Contents/._Frameworks
+1539	Qlark.app/Contents/Info.plist
+163	Qlark.app/Contents/._Info.plist
+8	Qlark.app/Contents/PkgInfo
+163	Qlark.app/Contents/._PkgInfo
+163	Qlark.app/._Contents

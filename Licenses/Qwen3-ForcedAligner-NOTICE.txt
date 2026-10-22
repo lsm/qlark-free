@@ -1,0 +1,16 @@
+Qlark distribution attribution notice (prepared by distributor).
+
+Qwen3-ForcedAligner-0.6B by Qwen Team / Alibaba Cloud.
+https://huggingface.co/Qwen/Qwen3-ForcedAligner-0.6B
+https://github.com/QwenLM/Qwen3-ASR
+License: Apache License, Version 2.0 (Qwen3-ForcedAligner-LICENSE.txt).
+
+4-bit MLX conversion by aufklarer:
+https://huggingface.co/aufklarer/Qwen3-ForcedAligner-0.6B-4bit
+Exact revision: f0e9f12a0ddbcb5f1e1b7f0339090628f1cede1d
+The conversion model card also declares Apache-2.0.
+The eight repository files are bundled unchanged. The added qlark-model-pin.json
+records exact upstream file sizes and SHA-256 hashes for runtime verification.
+
+Neither upstream model repository publishes a separate NOTICE file at this
+revision. This is a distribution-authored attribution, not an upstream NOTICE.
