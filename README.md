@@ -18,8 +18,7 @@ GitHub's automatic “Source code” archives do not contain the app or models.
 ## Install and use / 安装和使用
 
 1. Quit older copies, unzip the download, then replace `/Applications/Qlark.app`.
-2. Open Qlark and confirm the normal first-open dialog if shown. It is Developer
-   ID signed, Apple-notarized and stapled; do not disable Gatekeeper.
+2. Open Qlark and confirm the normal first-open dialog if shown.
 3. Grant Microphone and Accessibility when requested. If needed, enable the app
    in System Settings → Privacy & Security → Accessibility.
 4. Wait for Ready. Qlark lives in the menu bar and floating control, without a
@@ -46,8 +45,7 @@ recordings may remain locally for recovery; closing the bubble does not erase th
   retain the existing background. The bird animation and seven-bar meter remain.
 - Includes the empty-paragraph first-paste confirmation change, retained-history
   scan performance fix and quiet confirmed delivery.
-- Developer ID: **ARCOBY, LLC (P5R65T296V)**; bundle **dev.qlark.Qlark**.
-  Strict signing, Apple notarization, staple validation and Gatekeeper checks pass.
+- **Apple-notarized / 已通过 Apple 公证。**
 - ZIP: **611,696,057 bytes** (611.7 MB / 583.4 MiB). Check
   [SHA256SUMS](SHA256SUMS) before installing.
 
