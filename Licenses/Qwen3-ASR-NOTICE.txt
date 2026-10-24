@@ -11,7 +11,9 @@ Conversion model-card revision: bc441bd1e4295c1f42d9879f056049a925b6e013
 License declared by converter: Apache-2.0.
 Six original converted model files are bundled unchanged.
 MODEL-FILES.json gives exact sizes and SHA-256 hashes.
-No ForcedAligner, Silero VAD, or other model weights are bundled.
+This ASR component contains six model files. The application also includes
+the separately licensed Silero VAD component; MODEL-FILES.json lists both.
+No forced-alignment model is included.
 
 The upstream project and model repositories did not publish a separate NOTICE
 file when checked on 2026-10-21. This file is distribution attribution, not an

@@ -13,10 +13,10 @@ Apple-notarized.
 ## Get it
 
 1. Download
-   [`qlark-free-e26a72d-2026-10-22.zip` (~611.7 MB)](https://github.com/lsm/qlark-free/releases/download/build-2026-10-22-e26a72d/qlark-free-e26a72d-2026-10-22.zip)
-   from the [latest release](https://github.com/lsm/qlark-free/releases/tag/build-2026-10-22-e26a72d).
+   [`qlark-free-3513bfc-2026-10-23.zip` (~611.7 MB)](https://github.com/lsm/qlark-free/releases/download/build-2026-10-23-3513bfc/qlark-free-3513bfc-2026-10-23.zip)
+   from the [latest release](https://github.com/lsm/qlark-free/releases/tag/build-2026-10-23-3513bfc).
 2. Verify the SHA-256 (`shasum -a 256 <zip>`) matches
-   `b2e4092482c8e44da59fae6c9dc72ab4af34b21c30b4e703e8052e7bee321fbd` — see
+   `ceedcc6d86900bb0f347d9731d3fdbe2931c0cc28a41ccbb794a630234568290` — see
    [SHA256SUMS](SHA256SUMS).
 3. Unzip and drag `Qlark.app` into Applications. The ASR and VAD models are
    already inside the app; download the release ZIP, not GitHub's auto-generated
@@ -34,7 +34,25 @@ Apple-notarized.
    (five-minute recording limit); optional **Streaming** transcribes at pauses
    while recording continues.
 4. Unsent or unconfirmed text stays in a fallback bubble with Copy all and
-   Paste unsent; failed or partial recordings may remain locally for recovery.
+   Paste unsent. Previously dispatched uncertain text is not automatically pasted
+   again. Streaming stops after ten minutes without detected speech.
+5. Failed batch recordings appear beside the floating control with Retry and
+   Delete (with confirmation). A successful retry saves the text in Saved
+   transcripts and shows it for Copy all. Failed, partial or unconfirmed recordings
+   may remain locally for recovery.
+
+## This update
+
+- Improved paste confirmation for empty or placeholder inputs and changed caret
+  positions; avoids reopening a fully delivered previous session on the next Start.
+- Less bookkeeping during long silence, improved hotkey handling, and a message
+  instead of a crash when the microphone is unusable.
+- Native Liquid Glass transcript bubble on macOS 26+, with a fallback background
+  on earlier supported versions.
+
+The program binary matches the version tested by its owner. The download adds
+Apple notarization without changing the program or model files. Compatibility
+and transcription accuracy in every Mac/input field have not been established.
 
 ## Models and licenses
 
@@ -43,4 +61,5 @@ Apple-notarized.
 
 Both ship inside `Qlark.app`. License texts and attribution are in
 [Licenses](Licenses) and [THIRD-PARTY.json](THIRD-PARTY.json);
+[MODEL-FILES.json](MODEL-FILES.json) records the model hashes, and
 [CONTENTS.txt](CONTENTS.txt) lists every file in the download.

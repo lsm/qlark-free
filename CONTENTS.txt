@@ -1,4 +1,4 @@
-Archive: qlark-free-e26a72d-2026-10-22.zip
+Archive: qlark-free-3513bfc-2026-10-23.zip
 Every ZIP entry, including signature/xattr metadata.
 
 0	Qlark.app/
@@ -10,7 +10,7 @@ Every ZIP entry, including signature/xattr metadata.
 163	Qlark.app/Contents/_CodeSignature/._CodeResources
 163	Qlark.app/Contents/.__CodeSignature
 0	Qlark.app/Contents/MacOS/
-16991792	Qlark.app/Contents/MacOS/Qlark
+17077824	Qlark.app/Contents/MacOS/Qlark
 163	Qlark.app/Contents/MacOS/._Qlark
 163	Qlark.app/Contents/._MacOS
 0	Qlark.app/Contents/Resources/
@@ -43,7 +43,7 @@ Every ZIP entry, including signature/xattr metadata.
 163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeResources
 221	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeDirectory
 163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeDirectory
-9042	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeSignature
+9043	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeSignature
 163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeSignature
 224	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/CodeRequirements
 163	Qlark.app/Contents/Resources/swift-crypto_Crypto.bundle/Contents/_CodeSignature/._CodeRequirements
@@ -203,7 +203,7 @@ Every ZIP entry, including signature/xattr metadata.
 188208	Qlark.app/Contents/Frameworks/libswiftCompatibilitySpan.dylib
 163	Qlark.app/Contents/Frameworks/._libswiftCompatibilitySpan.dylib
 163	Qlark.app/Contents/._Frameworks
-1539	Qlark.app/Contents/Info.plist
+1537	Qlark.app/Contents/Info.plist
 163	Qlark.app/Contents/._Info.plist
 8	Qlark.app/Contents/PkgInfo
 163	Qlark.app/Contents/._PkgInfo
