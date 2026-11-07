@@ -13,10 +13,10 @@ Apple-notarized.
 ## Get it
 
 1. Download
-   [`qlark-free-3513bfc-2026-10-23.zip` (~611.7 MB)](https://github.com/lsm/qlark-free/releases/download/build-2026-10-23-3513bfc/qlark-free-3513bfc-2026-10-23.zip)
-   from the [latest release](https://github.com/lsm/qlark-free/releases/tag/build-2026-10-23-3513bfc).
+   [`qlark-free-996b010-2026-11-06.zip` (~611.8 MB)](https://github.com/lsm/qlark-free/releases/download/build-2026-11-06-996b010/qlark-free-996b010-2026-11-06.zip)
+   from the [latest release](https://github.com/lsm/qlark-free/releases/tag/build-2026-11-06-996b010).
 2. Verify the SHA-256 (`shasum -a 256 <zip>`) matches
-   `ceedcc6d86900bb0f347d9731d3fdbe2931c0cc28a41ccbb794a630234568290` — see
+   `f7a7f6766dc2ad0bfd77315ec0699cb77ef99577c22eb40122201d4790fdb472` — see
    [SHA256SUMS](SHA256SUMS).
 3. Unzip and drag `Qlark.app` into Applications. The ASR and VAD models are
    already inside the app; download the release ZIP, not GitHub's auto-generated
@@ -35,7 +35,9 @@ Apple-notarized.
    while recording continues.
 4. Unsent or unconfirmed text stays in a fallback bubble with Copy all and
    Paste unsent. Previously dispatched uncertain text is not automatically pasted
-   again. Streaming stops after ten minutes without detected speech.
+   again. Turn on **Don't show sent pastes in bubble** in the menu to treat text
+   Qlark sent as delivered, for apps that can't confirm a paste. Streaming stops
+   after ten minutes without detected speech.
 5. Failed batch recordings appear beside the floating control with Retry and
    Delete (with confirmation). A successful retry saves the text in Saved
    transcripts and shows it for Copy all. Failed, partial or unconfirmed recordings
@@ -43,12 +45,14 @@ Apple-notarized.
 
 ## This update
 
-- Improved paste confirmation for empty or placeholder inputs and changed caret
-  positions; avoids reopening a fully delivered previous session on the next Start.
-- Less bookkeeping during long silence, improved hotkey handling, and a message
-  instead of a crash when the microphone is unusable.
-- Native Liquid Glass transcript bubble on macOS 26+, with a fallback background
-  on earlier supported versions.
+- New menu option **Don't show sent pastes in bubble** (off by default) keeps text
+  Qlark sent out of the bubble when the target app can't confirm the paste.
+- **Check for speech** (on by default) skips batch recordings that contain no
+  speech and trims silence at the edges.
+- Streaming text confirmed as pasted is no longer saved to disk; unsent, uncertain
+  and partial text still is. Turn on **Save all transcripts** to keep everything.
+- Each Streaming session's files are deleted once its text is confirmed, closed
+  or replaced.
 
 The program binary matches the version tested by its owner. The download adds
 Apple notarization without changing the program or model files. Compatibility
